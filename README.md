@@ -5,6 +5,8 @@ Sumber dataset https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indic
 
 Rujukan rujukan https://jesit.springeropen.com/articles/10.1186/s43067-023-00074-5
 
+https://github.com/jumadi-cloud/jurnal_diabetes-/blob/main/Jurnal%20Rujukan/Jurnal%20rujukan%20diabetes%20classification.pdf
+
 https://jcbi.org/index.php/Main/article/view/205/135
 
 
